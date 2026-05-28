@@ -1,7 +1,18 @@
 h1 {
-    color: blue;
+    color:rgba(61, 193, 8, 0.942);
+
 }
-p {
-    color:green;
-    font-size: 25px;
+.navbar{
+    border:1px solid black;
+    background-color:lightgray;
+    padding:10px;
+}
+.navbar a {
+    color:rgba(17, 54, 188, 0.493);
+    text-decoration:none;
+    margin-right:10px;
+}
+.navbar a:hover {
+    background-color:rgba(3, 119, 55, 0.463);
+    padding:10px;
 }
